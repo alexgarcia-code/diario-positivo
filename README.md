@@ -38,13 +38,13 @@ diario-positivo/
 
 ## 🛠️ Tecnologías usadas
 
-Python
-Tkinter
+- Python
+- Tkinter
 
 ## 📈 Posibles mejoras futuras
 
-Mostrar historial de días
-Exportar las entradas a texto
-Mejorar el diseño visual
-Añadir recordatorios diarios
+- Mostrar historial de días
+- Exportar las entradas a texto
+- Mejorar el diseño visual
+- Añadir recordatorios diarios
 
